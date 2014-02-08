@@ -1,0 +1,1 @@
+asadmin start-domain --verbose 

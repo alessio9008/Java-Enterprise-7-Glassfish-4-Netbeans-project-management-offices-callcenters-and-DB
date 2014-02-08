@@ -1,0 +1,122 @@
+body
+{
+    background: #aaa;
+}
+
+#viability-head-id
+{
+    height: 150px;
+}
+
+.viability-common
+{
+    width: 490px;
+    height: 300px;
+    display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.viability-footer
+{
+    float: bottom;
+}
+
+
+.auto-margin
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-container
+{
+    margin-top: 3px;
+    margin-top: 3px;
+    
+    width: 600px;
+    height: 45px;
+    display: block;
+    
+}
+
+#viability-new
+{
+    height: auto;
+}
+
+.submit-custom
+{
+    margin-top: 5px;
+    margin-left: 42%;
+}
+
+.floating-class
+{
+    float: left;
+}
+
+.form-area-1
+{
+    width: 90px;
+}
+
+.form-area-2
+{
+    width: 90px;
+}
+
+.form-area-3
+{
+    width: 300px;
+}
+
+.alert-class
+{
+    width: 400px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+/*
+*   ID
+*/
+
+#viability-add-new
+{
+    width: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;  
+    
+    margin-left: 45%;
+}
+
+#viability-head
+{
+    height: 100px;
+}
+
+#viability-content
+{
+    height: auto;
+}
+
+#viability-footer
+{
+    text-align: center;
+    padding-top: 10px;
+    height: 50px;
+}
+
+/*
+*   text
+*/
+
+.txt-custom
+{
+    text-align: center;
+}
