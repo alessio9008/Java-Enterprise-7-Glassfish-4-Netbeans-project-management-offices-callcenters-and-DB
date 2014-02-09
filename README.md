@@ -17,3 +17,5 @@ Every request received to the office consists:
 - Write to database.
 
 Every office has three active replicas of the same database and communicate with the databases by jms/Topic.
+
+This project was developed by Alessio Oglialoro, Gregory Callea and Riccardo Nocita.
