@@ -1,4 +1,4 @@
-Java-Enterprise-7-Glassfish-4-Netbeans-project-management-offices-callcenters-and-DB
+Java Enterprise 7 Glassfish 4 Netbeans project management offices callcenters and DB
 ====================================================================================
 
 The system was developed using Java Enterprise 7.0 and glassfish server 4.0. It consists of:
